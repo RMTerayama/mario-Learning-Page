@@ -1,8 +1,15 @@
 @media (max-width: 1200px) {
+    
     body {
-       background-color: #f44336;
-    }
+            background: linear-gradient(135deg, rgba(189,0,0,1) 10%, rgba(108,0,0,0.8575805322128851) 50%, rgba(0,0,0,1) 90%);    
+            width: 100vw;
+            height: 100vh;
+        }
+    .bowser-img-container{
+        display: flex;
 
+    }    
+            
     .fundo-video {
         display: none;
     }
@@ -35,6 +42,7 @@
 }
 
 @media (max-width: 500px) {
+    
     .cabecalho {
         flex-wrap: wrap;
         justify-content: center;
