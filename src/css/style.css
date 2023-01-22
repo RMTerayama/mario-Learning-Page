@@ -1,7 +1,10 @@
   
-
+*{
+    overflow-y: hidden ;
+}
 body {
     font-family: 'Poppins';
+    
 }
 .box-load{
     background-color: #f03a17;
@@ -48,6 +51,19 @@ body {
 .cabecalho nav li a:hover {
     background-color: #d5011d;
 }
+.bowser-img-container{
+    position: absolute;
+    display: none;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    z-index: -1;
+    opacity: 0.4;
+    
+}
+
+
 
 .container {
     max-width: 1440px;
@@ -154,6 +170,3 @@ body {
     opacity: 1;
     visibility: visible;
 }
-
-
-
