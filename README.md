@@ -5,6 +5,7 @@
 # Sobre o projeto
 
 https://rmterayama.github.io/mario-Learning-Page/
+![Web](https://github.com/RMTerayama/mario-Learning-Page/blob/main/assets/Apresentacao.gif)
 
 Foi criado uma Learning Page com o intuito de apresentar o novo filme Super Mario Bros que será lançado em 30/03/2023. 
 Projeto realizado em função de estudos das linguagens de Front-end.
